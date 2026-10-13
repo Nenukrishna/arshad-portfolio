@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "bosswallah-breaking-news",
+    "brand": "Boss Wallah",
+    "tag": "Boss Wallah",
+    "title": "Scam alert, read as news",
+    "fmt": "YouTube Shorts · 9:16 · 1:07",
+    "ar": "9:16",
+    "role": "Edit · Motion graphics · Sound",
+    "hook": "A consumer-finance story — a rewards scheme and a denied claim — staged as a breaking-news bulletin. Virtual set, ticker, lower thirds and a cold open that buys the next sixty seconds."
+  },
+  {
+    "slug": "moneyalert-office-sms",
+    "brand": "MoneyAlert",
+    "tag": "MoneyAlert",
+    "title": "Four debits he never approved",
+    "fmt": "Meta · 9:16 · 0:21",
+    "ar": "9:16",
+    "role": "Edit · UI comp · Sound · Grade",
+    "hook": "Bank SMS cards stack up over a desk reaction until the autopay list lays all four out on one screen."
+  },
+  {
+    "slug": "passbook-old-vs-smart",
+    "brand": "Passbook Plus",
+    "tag": "Passbook Plus",
+    "title": "Old method vs smart method",
+    "fmt": "Play Store · 9:16 · 0:19",
+    "ar": "9:16",
+    "role": "Edit · UI comp · Sound · Grade",
+    "hook": "A straight compare: the bank queue on one side, chai and a phone on the other, with the supers doing the arguing."
+  },
+  {
+    "slug": "moneyalert-street",
+    "brand": "MoneyAlert",
+    "tag": "MoneyAlert",
+    "title": "Every payment, out loud",
+    "fmt": "Meta · 9:16 · 0:31",
+    "ar": "9:16",
+    "role": "Edit · UI comp · Sound · Grade",
+    "hook": "Street-side direct address cut into the autopay list, then the voice-alert end card. Built around one presenter and one phone."
+  },
+  {
+    "slug": "bosswallah-mcdonalds",
+    "brand": "Boss Wallah",
+    "tag": "Boss Wallah",
+    "title": "What McDonald's actually sells",
+    "fmt": "YouTube Shorts · 9:16 · 0:48",
+    "ar": "9:16",
+    "role": "Edit · Motion graphics · Sound",
+    "hook": "Presenter-led business explainer cut against b-roll, charts and brand cut-outs, paced to hold past the first three seconds."
+  },
+  {
+    "slug": "daily-attendance-ledger",
+    "brand": "Daily Attendance",
+    "tag": "Daily Attendance",
+    "title": "The register that never adds up",
+    "fmt": "Play Store · 9:16 · 0:19",
+    "ar": "9:16",
+    "role": "Edit · UI comp · Sound · Grade",
+    "hook": "An hour lost to a paper attendance book, answered by the report screen that closes the month in a tap."
+  },
+  {
+    "slug": "moneyalert-kirana",
+    "brand": "MoneyAlert",
+    "tag": "MoneyAlert",
+    "title": "Two banks, one screen",
+    "fmt": "Meta · 9:16 · 0:16",
+    "ar": "9:16",
+    "role": "Edit · UI comp · Sound · Grade",
+    "hook": "Two men over one phone in a kirana store. The passbook screen does the talking and the voice-alert pitch lands on the last beat."
+  },
+  {
+    "slug": "ffreedom-six-languages",
+    "brand": "ffreedom app",
+    "tag": "Boss Wallah",
+    "title": "Learn in six languages",
+    "fmt": "YouTube Shorts · 9:16 · 0:54",
+    "ar": "9:16",
+    "role": "Edit · Motion graphics · Sound",
+    "hook": "A UPI receipt, a street vendor and a presenter walking the viewer to the subscription card. Cut for the ffreedom app, since renamed Boss Wallah."
+  },
+  {
+    "slug": "passbook-shopkeeper",
+    "brand": "Passbook Plus",
+    "tag": "Passbook Plus",
+    "title": "Due tomorrow, dismissed today",
+    "fmt": "Play Store · 9:16 · 0:19",
+    "ar": "9:16",
+    "role": "Edit · UI comp · Sound · Grade",
+    "hook": "Shop-floor dialogue into the upcoming-payments screen, with the dismiss-or-pay beat held long enough to actually read."
+  },
+  {
+    "slug": "moneyalert-store-rush",
+    "brand": "MoneyAlert",
+    "tag": "MoneyAlert",
+    "title": "Rush hour at the general store",
+    "fmt": "Meta · 9:16 · 0:14",
+    "ar": "9:16",
+    "role": "Edit · UI comp · Sound · Grade",
+    "hook": "A counter full of customers and a man who cannot tell which payment landed. Cut tight to keep the pressure on until the app arrives."
+  }
+]

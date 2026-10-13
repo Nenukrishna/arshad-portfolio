@@ -1,0 +1,16 @@
+{
+  "name": "arshad-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3222",
+    "build": "next build",
+    "start": "next start",
+    "build:pages": "NEXT_PUBLIC_BASE_PATH=/arshad-portfolio next build"
+  },
+  "dependencies": {
+    "next": "15.5.25",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  }
+}
