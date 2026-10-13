@@ -1,6 +1,6 @@
 import './globals.css';
 
-const SITE = 'https://arshad-ahmed-portfolio.vercel.app';
+const SITE = 'https://arshad-ahmed.vercel.app';
 
 const DESC =
   'Arshad Ahmed — Senior Video Editor in Bengaluru. 7+ years cutting performance ads for fintech and small-business apps, and 900+ YouTube Shorts for finance, business and farming channels.';

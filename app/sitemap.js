@@ -3,7 +3,7 @@ export const dynamic = 'force-static';
 export default function sitemap() {
   return [
     {
-      url: 'https://arshad-ahmed-portfolio.vercel.app',
+      url: 'https://arshad-ahmed.vercel.app',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 1,
